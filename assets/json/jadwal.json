@@ -1,0 +1,142 @@
+{
+  "mahasiswa": {
+    "nama": "Ryan Pratama",
+    "nim": "2210511023",
+    "kelas": "5A",
+    "prodi": "Teknik Informatika",
+    "semester": 5,
+    "universitas": "Universitas Nusantara"
+  },
+  "mataKuliah": [
+    {
+      "kode": "MKB511",
+      "nama": "Mobile Programming",
+      "dosen": "Rina Wulandari, S.T., M.T.",
+      "sks": 3,
+      "hari": "Senin",
+      "jamMulai": "08:00",
+      "jamSelesai": "09:40",
+      "ruangan": "Lab Android 1",
+      "semester": 5,
+      "warna": "0xFF3F51B5",
+      "deskripsi": "Pengembangan aplikasi mobile menggunakan framework Flutter, mencakup layout, widget, navigasi, state management, dan integrasi API."
+    },
+    {
+      "kode": "MKB512",
+      "nama": "Web Programming II",
+      "dosen": "Ahmad Fauzi, S.Kom., M.T.",
+      "sks": 3,
+      "hari": "Senin",
+      "jamMulai": "10:00",
+      "jamSelesai": "11:40",
+      "ruangan": "Lab Komputer 2",
+      "semester": 5,
+      "warna": "0xFF009688",
+      "deskripsi": "Pengembangan aplikasi web sisi server modern: REST API, autentikasi, dan deployment aplikasi."
+    },
+    {
+      "kode": "MKB513",
+      "nama": "Basis Data Lanjut",
+      "dosen": "Dewi Lestari, S.T., M.T.",
+      "sks": 3,
+      "hari": "Selasa",
+      "jamMulai": "08:00",
+      "jamSelesai": "09:40",
+      "ruangan": "R. 302",
+      "semester": 5,
+      "warna": "0xFFFF7043",
+      "deskripsi": "Optimasi query, normalisasi lanjutan, transaksi, trigger, serta perancangan basis data berskala besar."
+    },
+    {
+      "kode": "MKB514",
+      "nama": "Rekayasa Perangkat Lunak",
+      "dosen": "Budi Santoso, S.Kom., M.M.",
+      "sks": 3,
+      "hari": "Selasa",
+      "jamMulai": "13:00",
+      "jamSelesai": "14:40",
+      "ruangan": "R. 301",
+      "semester": 5,
+      "warna": "0xFF7E57C2",
+      "deskripsi": "Metodologi pengembangan perangkat lunak: analisis kebutuhan, desain arsitektur, pengujian, dan manajemen proyek."
+    },
+    {
+      "kode": "MKB515",
+      "nama": "Jaringan Komputer",
+      "dosen": "Hendra Gunawan, S.T., M.T.",
+      "sks": 3,
+      "hari": "Rabu",
+      "jamMulai": "09:40",
+      "jamSelesai": "11:20",
+      "ruangan": "Lab Jaringan",
+      "semester": 5,
+      "warna": "0xFF2E7D32",
+      "deskripsi": "Model referensi OSI/TCP-IP, perutean, subnetting, dan pengelolaan jaringan area kampus."
+    },
+    {
+      "kode": "MKB516",
+      "nama": "Pemrograman Berorientasi Objek Lanjut",
+      "dosen": "Siti Rahayu, S.Kom., M.T.",
+      "sks": 3,
+      "hari": "Rabu",
+      "jamMulai": "13:00",
+      "jamSelesai": "14:40",
+      "ruangan": "Lab Java",
+      "semester": 5,
+      "warna": "0xFF00897B",
+      "deskripsi": "Pola desain (design pattern), solid principles, dan penerapan OOP pada proyek berskala besar."
+    },
+    {
+      "kode": "MKB517",
+      "nama": "Kecerdasan Buatan",
+      "dosen": "Yoga Pranata, S.T., M.T.",
+      "sks": 3,
+      "hari": "Kamis",
+      "jamMulai": "08:00",
+      "jamSelesai": "09:40",
+      "ruangan": "R. 303",
+      "semester": 5,
+      "warna": "0xFFC62828",
+      "deskripsi": "Dasar machine learning, pencarian dan optimasi, fuzzy logic, serta implementasi model sederhana."
+    },
+    {
+      "kode": "MKB518",
+      "nama": "Proyek Integrasi",
+      "dosen": "Rina Wulandari, S.T., M.T.",
+      "sks": 4,
+      "hari": "Kamis",
+      "jamMulai": "13:00",
+      "jamSelesai": "15:00",
+      "ruangan": "Lab Android 1",
+      "semester": 5,
+      "warna": "0xFFEF6C00",
+      "deskripsi": "Pengembangan proyek tim lintas mata kuliah: perencanaan, implementasi, dan presentasi produk akhir."
+    },
+    {
+      "kode": "MKB519",
+      "nama": "Bahasa Inggris Teknis",
+      "dosen": "Maria Ulfa, S.Pd., M.Pd.",
+      "sks": 2,
+      "hari": "Jumat",
+      "jamMulai": "08:00",
+      "jamSelesai": "09:40",
+      "ruangan": "R. 205",
+      "semester": 5,
+      "warna": "0xFF5E35B1",
+      "deskripsi": "Kemampuan membaca dan menulis dokumen teknis berbahasa Inggris: paper, dokumentasi API, dan laporan."
+    },
+    {
+      "kode": "MKB520",
+      "nama": "Etika Profesi",
+      "dosen": "Budi Santoso, S.Kom., M.M.",
+      "sks": 2,
+      "hari": "Jumat",
+      "jamMulai": "10:00",
+      "jamSelesai": "11:20",
+      "ruangan": "R. 205",
+      "semester": 5,
+      "warna": "0xFF455A64",
+      "deskripsi": "Etika dan hukum TI, privasi data, hak kekayaan intelektual, serta tanggung jawab sosial profesional."
+    }
+  ]
+}

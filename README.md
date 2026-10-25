@@ -1,10 +1,10 @@
-# 📅 Jadwal Kuliah — Aplikasi Mobile Flutter
+# Jadwal Kuliah: Aplikasi Mobile Flutter
 
 Aplikasi mobile untuk memantau **jadwal kuliah harian** mahasiswa: jadwal hari ini,
 daftar seluruh mata kuliah per hari, detail mata kuliah, dan profil akademik.
 Dikembangkan untuk UTS mata kuliah **Mobile Programming** (Semester Ganjil 2025/2026).
 
-## 🎯 Tema dan Tujuan
+## Tema dan Tujuan
 
 - **Tema:** Manajemen jadwal kuliah mahasiswa dengan antarmuka bersih dan responsif.
 - **Tujuan:**
@@ -14,7 +14,7 @@ Dikembangkan untuk UTS mata kuliah **Mobile Programming** (Semester Ganjil 2025/
      tahap pengembangan berikutnya.
   3. Menampilkan jadwal yang informatif dan mudah dibaca dengan desain yang konsisten.
 
-## 📱 Daftar Halaman dan Fungsinya
+## Daftar Halaman dan Fungsinya
 
 | Halaman | Berkas | Fungsi |
 |---|---|---|
@@ -37,7 +37,7 @@ lib/
 assets/json/jadwal.json          # Data dummy jadwal
 ```
 
-## ▶️ Menjalankan Aplikasi
+## Menjalankan Aplikasi
 
 Prasyarat: Flutter SDK terpasang dan satu perangkat/emulator Android.
 
@@ -54,7 +54,7 @@ flutter analyze      # pemeriksaan statis
 flutter test         # 6 pengujian: parsing JSON + interaksi UI/navigasi
 ```
 
-## 📂 Data Dummy
+## Data Dummy
 
 Seluruh data berada di [`assets/json/jadwal.json`](assets/json/jadwal.json)
 berisi identitas `mahasiswa` dan array `mataKuliah`
